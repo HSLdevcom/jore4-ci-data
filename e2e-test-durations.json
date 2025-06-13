@@ -1,6 +1,10 @@
 {
   "durations": [
     {
+      "spec": "e2e/doesNotExist.cy.ts",
+      "duration": 5432
+    },
+    {
       "spec": "e2e/changeLanguage.cy.ts",
       "duration": 1508
     },
