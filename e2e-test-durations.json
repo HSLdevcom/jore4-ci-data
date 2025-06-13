@@ -29,10 +29,6 @@
       "duration": 9294
     },
     {
-      "spec": "e2e/login.cy.ts",
-      "duration": 1038
-    },
-    {
       "spec": "e2e/map/createRoute.cy.ts",
       "duration": 69741
     },
