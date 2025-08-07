@@ -2,115 +2,115 @@
   "durations": [
     {
       "spec": "e2e/changeLanguage.cy.ts",
-      "duration": 1501
+      "duration": 1549
     },
     {
       "spec": "e2e/commonSubstituteDays.cy.ts",
-      "duration": 54206
+      "duration": 82283
     },
     {
       "spec": "e2e/createLine.cy.ts",
-      "duration": 4490
+      "duration": 4431
     },
     {
       "spec": "e2e/editLineInfo.cy.ts",
-      "duration": 5068
+      "duration": 5073
     },
     {
       "spec": "e2e/editRoute.cy.ts",
-      "duration": 22973
+      "duration": 22808
     },
     {
       "spec": "e2e/editStop.cy.ts",
-      "duration": 84275
+      "duration": 91180
     },
     {
       "spec": "e2e/hastusExport.cy.ts",
-      "duration": 9404
+      "duration": 9061
     },
     {
       "spec": "e2e/login.cy.ts",
-      "duration": 1332
+      "duration": 1289
     },
     {
       "spec": "e2e/map/createRoute.cy.ts",
-      "duration": 70574
+      "duration": 67582
     },
     {
       "spec": "e2e/map/createStop.cy.ts",
-      "duration": 80124
+      "duration": 76997
     },
     {
       "spec": "e2e/map/createTerminal.cy.ts",
-      "duration": 27627
+      "duration": 28104
     },
     {
       "spec": "e2e/map/editRouteShape.cy.ts",
-      "duration": 46542
+      "duration": 44014
     },
     {
       "spec": "e2e/map/editStopAreas.cy.ts",
-      "duration": 38093
+      "duration": 33586
     },
     {
       "spec": "e2e/map/editTerminals.cy.ts",
-      "duration": 33775
+      "duration": 33530
     },
     {
       "spec": "e2e/map/mapFiltering.cy.ts",
-      "duration": 16390
+      "duration": 18717
     },
     {
       "spec": "e2e/occasionalSubstituteDays.cy.ts",
-      "duration": 17645
+      "duration": 15272
     },
     {
       "spec": "e2e/routeStops.cy.ts",
-      "duration": 9722
+      "duration": 9234
     },
     {
       "spec": "e2e/searchRoutesAndLines.cy.ts",
-      "duration": 5360
+      "duration": 5173
     },
     {
       "spec": "e2e/stop-registry/stopAreaDetails.cy.ts",
-      "duration": 36471
+      "duration": 31755
     },
     {
       "spec": "e2e/stop-registry/stopDetails.cy.ts",
-      "duration": 126659
+      "duration": 123301
     },
     {
       "spec": "e2e/stop-registry/stopSearch.cy.ts",
-      "duration": 63056
+      "duration": 62879
     },
     {
       "spec": "e2e/stop-registry/stopVersions.cy.ts",
-      "duration": 30736
+      "duration": 30718
     },
     {
       "spec": "e2e/stop-registry/terminals.cy.ts",
-      "duration": 25601
+      "duration": 24998
     },
     {
       "spec": "e2e/timetableImport.cy.ts",
-      "duration": 20882
+      "duration": 19674
     },
     {
       "spec": "e2e/timetablePassingTimes.cy.ts",
-      "duration": 4577
+      "duration": 4253
     },
     {
       "spec": "e2e/timetablesReplaceAndCombine.cy.ts",
-      "duration": 16442
+      "duration": 16867
     },
     {
       "spec": "e2e/timetableValidityPeriod.cy.ts",
-      "duration": 7635
+      "duration": 7144
     },
     {
       "spec": "e2e/timetableVersionDetailsPanel.cy.ts",
-      "duration": 4309
+      "duration": 4219
     }
   ]
 }
