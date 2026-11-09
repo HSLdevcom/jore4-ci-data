@@ -2,147 +2,147 @@
   "durations": [
     {
       "spec": "e2e/changeLanguage.cy.ts",
-      "duration": 1797
+      "duration": 1792
     },
     {
       "spec": "e2e/commonSubstituteDays.cy.ts",
-      "duration": 17866
+      "duration": 17513
     },
     {
       "spec": "e2e/editRoute.cy.ts",
-      "duration": 27692
+      "duration": 26537
     },
     {
       "spec": "e2e/hastusExport.cy.ts",
-      "duration": 9352
+      "duration": 9001
     },
     {
       "spec": "e2e/lineChangeHistory.cy.ts",
-      "duration": 19809
+      "duration": 19749
     },
     {
       "spec": "e2e/lineRouteExport.cy.ts",
-      "duration": 10697
+      "duration": 9996
     },
     {
       "spec": "e2e/lines.cy.ts",
-      "duration": 11034
+      "duration": 11398
     },
     {
       "spec": "e2e/login.cy.ts",
-      "duration": 1702
+      "duration": 1968
     },
     {
       "spec": "e2e/map/createRoute.cy.ts",
-      "duration": 166557
+      "duration": 166702
     },
     {
       "spec": "e2e/map/createStop.cy.ts",
-      "duration": 236599
+      "duration": 234385
     },
     {
       "spec": "e2e/map/createTerminal.cy.ts",
-      "duration": 86650
+      "duration": 56131
     },
     {
       "spec": "e2e/map/editDepotStop.cy.ts",
-      "duration": 22605
+      "duration": 22689
     },
     {
       "spec": "e2e/map/editRouteShape.cy.ts",
-      "duration": 75297
+      "duration": 112681
     },
     {
       "spec": "e2e/map/editStop.cy.ts",
-      "duration": 114631
+      "duration": 163271
     },
     {
       "spec": "e2e/map/editStopAreas.cy.ts",
-      "duration": 63393
+      "duration": 60466
     },
     {
       "spec": "e2e/map/editTerminals.cy.ts",
-      "duration": 33786
+      "duration": 66399
     },
     {
       "spec": "e2e/map/mapFiltering.cy.ts",
-      "duration": 11555
+      "duration": 17252
     },
     {
       "spec": "e2e/occasionalSubstituteDays.cy.ts",
-      "duration": 12261
+      "duration": 45324
     },
     {
       "spec": "e2e/routeStops.cy.ts",
-      "duration": 8922
+      "duration": 11264
     },
     {
       "spec": "e2e/routeVersions.cy.ts",
-      "duration": 4357
+      "duration": 5699
     },
     {
       "spec": "e2e/searchRoutesAndLines.cy.ts",
-      "duration": 5102
+      "duration": 6317
     },
     {
       "spec": "e2e/stop-registry/hybridStop.cy.ts",
-      "duration": 53158
+      "duration": 58014
     },
     {
       "spec": "e2e/stop-registry/stopAreaChangeHistory.cy.ts",
-      "duration": 22775
+      "duration": 27157
     },
     {
       "spec": "e2e/stop-registry/stopAreaDetails.cy.ts",
-      "duration": 67649
+      "duration": 73403
     },
     {
       "spec": "e2e/stop-registry/stopChangeHistory.cy.ts",
-      "duration": 38543
+      "duration": 47180
     },
     {
       "spec": "e2e/stop-registry/stopDetails.cy.ts",
-      "duration": 117005
+      "duration": 181188
     },
     {
       "spec": "e2e/stop-registry/stopSearch.cy.ts",
-      "duration": 74838
+      "duration": 123500
     },
     {
       "spec": "e2e/stop-registry/stopVersions.cy.ts",
-      "duration": 10418
+      "duration": 14270
     },
     {
       "spec": "e2e/stop-registry/terminalChangeHistory.cy.ts",
-      "duration": 41019
+      "duration": 26390
     },
     {
       "spec": "e2e/stop-registry/terminals.cy.ts",
-      "duration": 91714
+      "duration": 62515
     },
     {
       "spec": "e2e/stopsOutOfOperationOnRoute.cy.ts",
-      "duration": 29841
+      "duration": 19570
     },
     {
       "spec": "e2e/timetableImport.cy.ts",
-      "duration": 26068
+      "duration": 15864
     },
     {
       "spec": "e2e/timetablePassingTimes.cy.ts",
-      "duration": 5032
+      "duration": 5634
     },
     {
       "spec": "e2e/timetablesReplaceAndCombine.cy.ts",
-      "duration": 15749
+      "duration": 18891
     },
     {
       "spec": "e2e/timetableValidityPeriod.cy.ts",
-      "duration": 6882
+      "duration": 7932
     },
     {
       "spec": "e2e/timetableVersionDetailsPanel.cy.ts",
-      "duration": 4453
+      "duration": 5046
     }
   ]
 }
